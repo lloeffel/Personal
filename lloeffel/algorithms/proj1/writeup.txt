@@ -1,0 +1,9 @@
+David Floyd - DavyjonesCode
+Liam Loeffel - WaffleWars
+
+https://github.com/DavyjonesCode/Project1CS203
+
+Compilation command> g++ -Wall -Wextra -std=c++11 -o lib_info lib_info.cpp
+
+Summary:
+I started by writing up how to read in the file and get all of it's contents line by line. Then after a lab of learning how to use ssh keys I set up the repo and added Liam to it. From there we worked together to remember how to use strukts and maps. Liam did a lot of the heavy lifting with getting all the data filled into the structs and making sure they were filled correctly without writing over or creating duplicates, we colaborted on how it should be done but it he did a lot of the actual implimentation. From there I worked on printing everything out. I wrote some helper functions and formating. we used github extensivly so that we could stay up to date with what the other was doing.
