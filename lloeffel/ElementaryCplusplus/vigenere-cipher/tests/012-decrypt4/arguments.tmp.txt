@@ -1,0 +1,1 @@
+tests/012-decrypt4/fin.txt tests/012-decrypt4/fout.tmp.txt vols d

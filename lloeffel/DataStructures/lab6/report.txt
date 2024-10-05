@@ -1,0 +1,18 @@
+Times:
+find() from stl:
+1. 4:52.53
+2. 4:52.43
+3. 4:52.08
+bitset finder:
+1. 4:28.05
+2. 4:25.68
+3. 4:25.60
+load factor with the input of 2000000: 148,933
+binary search:
+1. 4:52.23
+2. 4:52.53
+3. 4:50.90
+map or set:
+1. 0:2.617
+2. 0:2.618
+3. 0:2.626

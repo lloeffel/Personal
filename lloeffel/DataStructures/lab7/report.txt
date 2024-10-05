@@ -1,0 +1,18 @@
+# of Boards considered with contraint(s) for n = 8: 2056
+# of Boards considered with contraint(s) for n = 10: 35538
+
+In your own words, what is the benefit of a recursive solution to
+enumerate all of the nqueens potential solutions (2 points):
+
+The benefit of the recursive code is that it can backtrack to previous recursions to find the solution.
+Otherwise the backtracking would have had to be manually implemented, which would cause a lot more unnecessary code and 
+headache for the developer.
+
+Also in your own words, what are the theoretical and/or practical
+advantages of constraining the search space to only still valid
+solutions?
+
+The practical advantage of constraining the space is that we do not spend time solving for solutions
+that we already know are wrong. This is more helpful when you are coding for n=10-like problems with
+over a billion possible solutions. We can easily see that the time was much faster than it was without
+the checking as it runs much faster.

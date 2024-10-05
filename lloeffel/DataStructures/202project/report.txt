@@ -1,0 +1,16 @@
+What went well:
+    Brainstorming the structure of our program went well, we were able to come up with the diffrenet files and classes that we would need.
+    
+
+What went less well:
+    Working colaboratively on the code at the same time, we had issues using liveshare with vs code and some issues tring to intigrate the code that we wrote seprerately.
+    We also had trouble scheduling times where we could all meet up together. This caused us to have to work seperately on parts of the project, which was a pain to eventually combine.
+
+What we learned:
+    We leared how to decide what data structure to use for our application and how to impliment it with classes and multiple files
+    We leared how to work together and delegate coding tasks to get a product that would work all together
+
+Why we should get all the points:
+    Our code works and is a fun game, we put as much work into it as we could with the time we had and having to study for other exams, 
+    learing how to work and manage our time together to be as effective as we could
+    Our original idea was to have multiple levels that the player would go through, and then the game would output your path at the end. We didn't have enough time to implement this though, which is part of the reason for why the game is so simple.

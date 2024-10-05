@@ -1,0 +1,2 @@
+tests/002-bad-fout-filename/fin.txt
+bad/report/path/bad-report-filename

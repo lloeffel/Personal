@@ -1,0 +1,1 @@
+tests/010-decrypt2/fin.txt tests/010-decrypt2/fout.tmp.txt vols d

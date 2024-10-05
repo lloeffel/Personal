@@ -1,0 +1,24 @@
+Name: Liam Loeffel
+Partners: Jackson Stern, David Floyd, Chase Wolverton 
+Github-repo: https://github.com/DavyjonesCode/CS302-FinalProject
+
+Rubric:
+
+	Code Compiles       - 20 pts
+	Writeup             - 5  pts
+	Shows 302 knowledge - 10 pts
+	Comments            - 5  pts
+
+Report:
+	This is a nice checkup to see how we are doing on the project. The amount of direction we have on this is not a lot, but it honestly should be that way since we are leading our own projects.
+
+Time Spent: (total: 15 min outside of lab)
+
+	1 hr 15 min: (in lab)
+	Downloading Unity and exploring the template for 2D platformers and Unity features
+	
+	15 min:
+	Made the proposal for the project and joined the github repository made by David.
+
+	3hr 45min:
+	Watching tutorials and figuring out how unity works. I have never used unity before so I am going to have to start from the ground up in that sense. We have a program that has a sprite in the git repo.

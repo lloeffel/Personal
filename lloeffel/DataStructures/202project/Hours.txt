@@ -1,0 +1,34 @@
+TOTAL HOURS FOR EACH PERSON:
+    Liam:     6 hr 1  min
+    David:    6 hr 20 min
+    Jackson:  8 hr 10 min
+
+ENTRIES:
+4/25/2024: David, Jackson, Liam
+    Time: 11:00-12:45 (1 hour 45 min)
+    Overview: We made a roadmap for the layout of the program, made classes,
+              and decided which data structure to use. 
+
+5/3/2024: David, Jackson, Liam
+    Time: 5:30-6:30 (1 hour)
+    Overview: We troubleshooted main.cpp and Makefile, and it now complies correctly
+
+5/7/2024: David
+    Time: (1 Hour 20 Minuets)
+    Overview: added to main.cpp, Level.h, and Level.cpp, it no longer compiles
+
+5/7/2024: Jackson
+    Time: 4:00-5:00, 5:30-6:30 (2 hours)
+    Overview: Debugged connections and started the basic architecture for the game
+
+5/8/2024: Jackson
+    Time: 11:30-12:40 (1 hour 10 minutes)
+    Overview: Finished the basic architecture and started writing out the lore
+
+5/9/2024: Liam, Jackson, David
+    Time: 1:50-4:05 (2 hours 15 Minuets)
+    Overview: integrated colaborated code togther
+
+5/9/2024: Liam
+    Time: 4:05-5:05 (1 hr)
+    Overview: Fixed formating and added finishing touches
