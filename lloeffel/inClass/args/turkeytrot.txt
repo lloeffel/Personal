@@ -1,7 +1,0 @@
-Liam Loeffel 0 30 05
-Bob Smith 0 45 21
-Sam Thomas 0 12 59
-Maria Norman 0 30 12
-Steve Nealy 0 15 44
-Jon Powers 0 22 27
-
